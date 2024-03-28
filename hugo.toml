@@ -1,4 +1,4 @@
-baseURL = 'https://www.h9t.de/kithub/jules/'
+baseURL = 'https://fantastic-empanada-7cc997.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'congo'
