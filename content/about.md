@@ -6,3 +6,4 @@ menu = 'main'
 
 ## Hi there
 
+I am in Bujumbura
