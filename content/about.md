@@ -8,3 +8,5 @@ menu = 'main'
 
 I was in Bujumbura.  
 Right now I am back in Germany.
+
+![plane.jpeg](../plane.jpeg)

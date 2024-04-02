@@ -1,4 +1,4 @@
-baseURL = 'https://fantastic-empanada-7cc997.netlify.app/'
+baseURL = 'https://epcm.bi/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My New Hugo Site (in Burundi)'
 theme = 'congo'
