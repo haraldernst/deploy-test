@@ -6,4 +6,5 @@ menu = 'main'
 
 ## Hi there
 
-I am in Bujumbura and ~~will return~~ had returned to Germany at the sunday in March.
+I was in Bujumbura.  
+Right now I am back in Germany.
